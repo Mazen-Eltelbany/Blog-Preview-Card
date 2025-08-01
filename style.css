@@ -60,7 +60,7 @@ body{
 }
 .blog-card p:nth-child(5) {
     font-size: 14px;
-    padding: 10px 15px;
+    padding: 0px 15px;
     color: var(--textmaincolor);
     margin-left: 5px;
     word-spacing: 1px;
@@ -70,7 +70,7 @@ body{
     display: flex;
     align-items: center;
     padding: 10px 10px;
-        margin-left: 10px;
+    margin-left: 10px;
 }
 .blog-card .writer p{
     font-size: 14px;
